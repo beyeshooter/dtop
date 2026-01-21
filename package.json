@@ -1,6 +1,11 @@
 {
 	"name": "dtop",
-	"version": "1.0.0",
+	"version": "1.0.1",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/beyeshooter/dtop.git"
+	},
+	"homepage": "https://github.com/beyeshooter/dtop#readme",
 	"description": "A developer-focused terminal dashboard for monitoring system status, Docker, Git, and more.",
 	"license": "MIT",
 	"bin": {
