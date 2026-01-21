@@ -4,7 +4,7 @@
 
 ![dtop Screenshot](screenshot.png)
 
-[![npm version](https://badge.fury.io/js/dtop.svg)](https://badge.fury.io/js/dtop)
+[![npm version](https://badge.fury.io/js/dtop.svg?cache-bust=1)](https://badge.fury.io/js/dtop)
 
 ## Features
 
